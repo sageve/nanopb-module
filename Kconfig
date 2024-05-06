@@ -1,0 +1,3 @@
+menuconfig NANOPB_TEST
+	bool "test"
+	select NANOPB
